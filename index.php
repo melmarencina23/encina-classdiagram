@@ -1,6 +1,6 @@
 <html>
 <title></title>
 <body>
-	<img src = "classdiagram.png">
+	<img src = "encina.PNG">
 </body>
 </html>
